@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/IMP_version-2.15.0-green)
+
 A tutorial on writing custom restraints using the [PMI](https://github.com/salilab/pmi) interface of the [Integrative Modeling Platform](https://integrativemodeling.org/) software.
 
 This was presented as a brief workshop at the [MASFE 2023](https://sites.google.com/acads.iiserpune.ac.in/masfe/) conference.
